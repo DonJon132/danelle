@@ -246,6 +246,7 @@ h1, h2, h3, h4, h5, h6, figure {
     width: 80px;
     height: 80px;
     line-height: 80px;
+    font-size: 9px;
   }
   .aside-toggle a span, .aside-toggle a em, .back-to-home a span, .back-to-home a em {
     width: 80px;
